@@ -1,0 +1,70 @@
+4
+ab
+0-a-1
+1-b-1
+1-a-2
+2-b-2
+2-a-3
+0
+3
+example from tema 7
+
+
+4
+ab
+0-a-1
+0-b-2
+1-a-0
+1-#-2
+2-b-2
+2-b-3
+3-a-1
+3-a-2
+0
+2 3
+example from https://www.geeksforgeeks.org/generating-regular-expression-from-finite-automata/
+p.s.: their solution has an incorrect extra '(' on position 5
+
+
+2
+ab
+0-a-0
+0-b-1
+1-a-1
+1-b-1
+0
+0 1
+example 2 from the last page of https://drive.google.com/open?id=1AJrw6nJUbqdcZq7QJpWWz0b1mkXCw6EB
+
+
+3
+ab
+0-a-0
+0-a-1
+0-a-2
+0-b-2
+1-b-1
+1-a-2
+0
+1 2
+exercise 5 from the last page of https://drive.google.com/open?id=1AJrw6nJUbqdcZq7QJpWWz0b1mkXCw6EB
+
+
+11
+ab
+0-#-1
+0-#-7
+1-#-2
+1-#-4
+2-a-3
+3-#-6
+4-b-5
+5-#-6
+6-#-1
+6-#-7
+7-a-8
+8-b-9
+9-b-10
+0
+10
+example from tema 6
